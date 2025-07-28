@@ -179,14 +179,14 @@ Consulta el archivo `LICENSE` para más detalles.
 
 ## Créditos
 
-Desarrollado por [Tu Nombre o Equipo].  
+Desarrollado por [Python].  
 Inspirado en la necesidad de gestionar gastos personales de forma sencilla y visual.
 
 ---
 
 ## Contacto
 
-Para dudas o sugerencias, contacta a: [tu_email@ejemplo.com]
+Para dudas o sugerencias, contacta a: no hay
 
 ---
 
